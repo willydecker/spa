@@ -1,0 +1,4 @@
+// william "version" of our SPA view
+var dummyPage = '<b>Name: </b>William Decker'
+		+ '<br><b> Fav Food: </b>Pizza n Ice Cream'
+		+ '<br><b> Age: </b>20';
